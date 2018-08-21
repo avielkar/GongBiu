@@ -1,13 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="" />
+    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bag_of_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/bag_of_words.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GongBiu$Unittests_in_bag_of_words_test_py.coverage" NAME="Unittests in bag_of_words_test.py Coverage Results" MODIFIED="1534858088607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bag_of_words.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bag_of_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bag_of_words_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="24" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/bag_of_words.py" />
+        <option value="$PROJECT_DIR$/tests/bug_of_words_test.py" />
+        <option value="$PROJECT_DIR$/tests/bag_of_words_test.py" />
+        <option value="$PROJECT_DIR$/bag_of_words.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -19,17 +73,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1908" />
-    <option name="y" value="-1137" />
-    <option name="width" value="767" />
-    <option name="height" value="431" />
+    <option name="x" value="2272" />
+    <option name="y" value="-1102" />
+    <option name="width" value="307" />
+    <option name="height" value="172" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -40,12 +94,18 @@
             <path>
               <item name="GongBiu" type="b2602c69:ProjectViewProjectNode" />
               <item name="GongBiu" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GongBiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GongBiu" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -53,6 +113,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AdamLab\Documents\GitHub\GongBiu" />
+      <recent name="C:\Users\AdamLab\Documents\GitHub\GongBiu\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,6 +132,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Unittests in bag_of_words_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GongBiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/bag_of_words_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in bag_of_words_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,34 +164,187 @@
       <option name="presentableId" value="Default" />
       <updated>1534185638056</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding the bag_of_words class file.">
+      <created>1534846457540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534846457540</updated>
+    </task>
+    <task id="LOCAL-00002" summary="import sickit package.">
+      <created>1534846513768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534846513768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inint the vectorizer.">
+      <created>1534846726958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534846726958</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add function with logic for 'parse_sentence_to_tuple'.">
+      <created>1534847263970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847263970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add 'parse_sentence_to_dict' function.">
+      <created>1534847471415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847471415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding documentation.">
+      <created>1534847590187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847590187</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Move the file to it's correct folder..">
+      <created>1534847693566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847693566</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add bag_of_words_test file.">
+      <created>1534847949720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847949720</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix string to str in the bag_of_words class.">
+      <created>1534847987424</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847987425</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Import packages for the tests.">
+      <created>1534848389340</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534848389340</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added unit test fot the tuple retuen function.">
+      <created>1534848909242</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1534848909242</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add the unit test expected and aht get.">
+      <created>1534856836665</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1534856836665</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix the missing ()">
+      <created>1534856918863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1534856918863</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix the array to asarray.">
+      <created>1534857197843</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1534857197843</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix the bug with the numpy.array and with the list - the function returns numpty array with one element of a list.">
+      <created>1534857666385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534857666385</updated>
+    </task>
+    <task id="LOCAL-00016" summary="convert the 1st element in the numpy.array to a list.">
+      <created>1534857776575</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1534857776575</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add test for test_parse_sentence_to_dict">
+      <created>1534858134774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1534858134774</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 13m 23s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 16m 18s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 17m 27s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 17m 46s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 18m 19s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 19m 25s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 19m 45s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 20m 20s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 23m 07s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_bag_of_words_test_py - 2018.08.21 at 16h 28m 09s.xml">
+      <configuration name="Unittests in bag_of_words_test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="889" y="-1088" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979124" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +352,113 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding the bag_of_words class file." />
+    <MESSAGE value="import sickit package." />
+    <MESSAGE value="Inint the vectorizer." />
+    <MESSAGE value="Add function with logic for 'parse_sentence_to_tuple'." />
+    <MESSAGE value="Add 'parse_sentence_to_dict' function." />
+    <MESSAGE value="Adding documentation." />
+    <MESSAGE value="Move the file to it's correct folder.." />
+    <MESSAGE value="Add bag_of_words_test file." />
+    <MESSAGE value="Fix string to str in the bag_of_words class." />
+    <MESSAGE value="Import packages for the tests." />
+    <MESSAGE value="Added unit test fot the tuple retuen function." />
+    <MESSAGE value="Add the unit test expected and aht get." />
+    <MESSAGE value="fix the missing ()" />
+    <MESSAGE value="Fix the array to asarray." />
+    <MESSAGE value="fix the bug with the numpy.array and with the list - the function returns numpty array with one element of a list." />
+    <MESSAGE value="convert the 1st element in the numpy.array to a list." />
+    <MESSAGE value="Add test for test_parse_sentence_to_dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add test for test_parse_sentence_to_dict" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bag_of_words.py</url>
+          <line>11</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/bag_of_words_test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
+    <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
+    <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
+    <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="533" column="12" selection-start-line="533" selection-start-column="7" selection-end-line="533" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python36-32/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36-32/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="818" selection-start-line="818" selection-end-line="818" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bag_of_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
