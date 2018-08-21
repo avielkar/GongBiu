@@ -21,8 +21,8 @@
       <file leaf-file-name="bag_of_words.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/bag_of_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534847471415</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding documentation.">
+      <created>1534847590187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847590187</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -197,7 +204,8 @@
     <MESSAGE value="Inint the vectorizer." />
     <MESSAGE value="Add function with logic for 'parse_sentence_to_tuple'." />
     <MESSAGE value="Add 'parse_sentence_to_dict' function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 'parse_sentence_to_dict' function." />
+    <MESSAGE value="Adding documentation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding documentation." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
@@ -217,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/bag_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
