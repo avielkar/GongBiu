@@ -9,7 +9,7 @@ class BagOfWords:
         self.vectorizer = CountVectorizer()
         pass
 
-    def parse_sentence_to_tuple(self, sentence):
+    def parse_sentence_to_tuple(self, sentence: str) -> tuple:
         """
         Returns the Bag of words of a sentence.
         :param sentence: The sentence to count it's bag of words.
