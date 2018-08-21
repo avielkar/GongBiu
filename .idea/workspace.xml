@@ -21,8 +21,8 @@
       <file leaf-file-name="bag_of_words.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/bag_of_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="374">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534847263970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add 'parse_sentence_to_dict' function.">
+      <created>1534847471415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847471415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -189,7 +196,8 @@
     <MESSAGE value="import sickit package." />
     <MESSAGE value="Inint the vectorizer." />
     <MESSAGE value="Add function with logic for 'parse_sentence_to_tuple'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function with logic for 'parse_sentence_to_tuple'." />
+    <MESSAGE value="Add 'parse_sentence_to_dict' function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 'parse_sentence_to_dict' function." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
@@ -209,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/bag_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="374">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
