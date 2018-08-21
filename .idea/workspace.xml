@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="Fix string to str in the bag_of_words class.">
+    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/bag_of_words_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bag_of_words_test.py" afterDir="false" />
     </list>
@@ -22,8 +22,8 @@
       <file leaf-file-name="bag_of_words.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bag_of_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="31" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -34,8 +34,8 @@
       <file leaf-file-name="bag_of_words_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            <state relative-caret-position="153">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534847987425</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Import packages for the tests.">
+      <created>1534848389340</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534848389340</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -220,9 +227,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32985386" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -256,7 +263,8 @@
     <MESSAGE value="Move the file to it's correct folder.." />
     <MESSAGE value="Add bag_of_words_test file." />
     <MESSAGE value="Fix string to str in the bag_of_words class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix string to str in the bag_of_words class." />
+    <MESSAGE value="Import packages for the tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Import packages for the tests." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
@@ -276,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bag_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="31" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
@@ -286,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
