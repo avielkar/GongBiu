@@ -30,7 +30,7 @@ class BagOfWords:
         sent_list = list()
         sent_list.append(sentence)
 
-        [words, words_counts] = self.parse_sentence_to_tuple(sent_list)
+        words, words_counts = self.parse_sentence_to_tuple(sent_list)
         words_count_list = words_counts.tolist()[0]
         bag_of_words_dict = dict()
         index = 0
