@@ -27,10 +27,7 @@ class BagOfWords:
         :param sentence: The sentence to count it's bag of words.
         :return: The bag of words described by a dictionary with keys as the word and values as the matched occurences of the word.
         """
-        sent_list = list()
-        sent_list.append(sentence)
-
-        words, words_counts = self.parse_sentence_to_tuple(sent_list)
+        words, words_counts = self.parse_sentence_to_tuple(sentence)
         words_count_list = words_counts.tolist()[0]
         bag_of_words_dict = dict()
         index = 0
