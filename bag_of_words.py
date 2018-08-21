@@ -15,11 +15,11 @@ class BagOfWords:
         :param sentence: The sentence to count it's bag of words.
         :return: The bag of words described by a tuple of words list and there matched array counters.
         """
-        sent_list = list
+        sent_list = list()
         sent_list.append(sentence)
 
         x = self.vectorizer.fit_transform(sent_list)
-        return (self.vectorizer.get_feature_names(), x.toarray())
+        return self.vectorizer.get_feature_names(), x.toarray()
 
     def parse_sentence_to_dict(self, sentence):
         """
@@ -27,7 +27,7 @@ class BagOfWords:
         :param sentence: The sentence to count it's bag of words.
         :return: The bag of words described by a dictionary with keys as the word and values as the matched occurences of the word.
         """
-        sent_list = list
+        sent_list = list()
         sent_list.append(sentence)
 
         [words, words_counts] = self.parse_sentence_to_tuple(sent_list)
