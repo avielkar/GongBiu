@@ -31,11 +31,12 @@ class BagOfWords:
         sent_list.append(sentence)
 
         [words, words_counts] = self.parse_sentence_to_tuple(sent_list)
+        words_count_list = words_counts.tolist()[0]
         bag_of_words_dict = dict()
         index = 0
 
         for word in words:
-            bag_of_words_dict[word] = words_counts[index]
+            bag_of_words_dict[word] = words_count_list[index]
             index += 1
 
         return bag_of_words_dict
