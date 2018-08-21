@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/bug_of_words_test.py" afterDir="false" />
+    <list default="true" id="aebe4a41-6a80-43c8-a165-acfa569a8411" name="Default" comment="Fix string to str in the bag_of_words class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bag_of_words_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bag_of_words_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +22,8 @@
       <file leaf-file-name="bag_of_words.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bag_of_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -31,9 +31,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bug_of_words_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/bug_of_words_test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="bag_of_words_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -53,6 +60,8 @@
       <list>
         <option value="$PROJECT_DIR$/venv/bag_of_words.py" />
         <option value="$PROJECT_DIR$/tests/bug_of_words_test.py" />
+        <option value="$PROJECT_DIR$/bag_of_words.py" />
+        <option value="$PROJECT_DIR$/tests/bag_of_words_test.py" />
       </list>
     </option>
   </component>
@@ -110,6 +119,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AdamLab\Documents\GitHub\GongBiu" />
+      <recent name="C:\Users\AdamLab\Documents\GitHub\GongBiu\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534847693566</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add bag_of_words_test file.">
+      <created>1534847949720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847949720</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix string to str in the bag_of_words class.">
+      <created>1534847987424</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534847987425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -230,7 +254,9 @@
     <MESSAGE value="Add 'parse_sentence_to_dict' function." />
     <MESSAGE value="Adding documentation." />
     <MESSAGE value="Move the file to it's correct folder.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Move the file to it's correct folder.." />
+    <MESSAGE value="Add bag_of_words_test file." />
+    <MESSAGE value="Fix string to str in the bag_of_words class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix string to str in the bag_of_words class." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/word-to-vec.py" />
@@ -250,16 +276,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bag_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/bug_of_words_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/tests/bag_of_words_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
