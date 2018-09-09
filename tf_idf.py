@@ -4,9 +4,8 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-
 class TfIdf:
-    vectorizer - None
+    vectorizer = None
 
     def __init__(self):
         self.vectorizer = TfidfVectorizer()
@@ -34,7 +33,7 @@ class TfIdf:
         tf_idf_dict = dict()
         index = 0
 
-        for word in words
+        for word in words:
             tf_idf_dict[word] = words_tf_idf_list[index]
             index += 1
 
